@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "nombre": "ivan1516hc",
+      "email": "ivan1516hc@gmail.com",
+      "password": "12345678",
+      "verificarC": "12345678",
+      "id": 1
+    },
+    {
+      "nombre": "toñito",
+      "email": "tonitohunter@gmail.com",
+      "password": "1234567890",
+      "verificarC": "1234567890",
+      "id": 2
+    },
+    {
+      "nombre": "jose",
+      "email": "jose@gmail.cm",
+      "password": "tonito10",
+      "verificarC": "tonito10",
+      "id": 3
+    }
+  ]
+}
